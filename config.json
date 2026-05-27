@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersonnect",
+        "uuid": 17453150,
+        "checksum": "kiy1z"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
